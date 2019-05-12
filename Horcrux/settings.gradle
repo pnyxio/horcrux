@@ -1,0 +1,4 @@
+rootProject.name = 'Horcrux'
+
+include ':android:app',
+        ':shared'
